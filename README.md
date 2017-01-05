@@ -6,7 +6,7 @@
 
 `npm i react-google-autocomplete --save`
 
-You also have to include google autocomplete link api in your app. Somewhere in index.html or somwehrer else.
+You also have to include google autocomplete link api in your app. Somewhere in index.html or somewhere else.
 
 ```
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=[YOUR_API_KEY]&libraries=places"></script>
