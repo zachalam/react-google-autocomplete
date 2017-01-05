@@ -38,6 +38,7 @@ export default class ReactGoogleAutocomplete extends React.Component {
       <div>
         <input
           ref="input"
+	  className={this.props.className}
           {...rest}
         />
       </div>
